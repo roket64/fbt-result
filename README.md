@@ -111,7 +111,7 @@ K-WAIS-IV 시행 결과 수검자의 지적기능은 평균 상 범위 (High Ave
 |Hyperactive Events|21|
 |Fine Motor Hyperactivity|77 (Mod)|
 
-|Sympomatic|Raw|Quotient|Value|
+|Symptomatic|Raw|Quotient|Value|
 |:--------:|:-:|:------:|:---:|
 |Comprehension (A)|100.0%|107|WNL|
 |Comprehension (V)|100.0%|106|WNL|
