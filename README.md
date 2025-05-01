@@ -134,7 +134,19 @@ K-WAIS-IV 시행 결과 수검자의 지적기능은 평균 상 범위 (High Ave
 |척도|VRIN|TRIN| F |F(B)|F(P)|FBS| L | K | S |Hs | D |Hy |Pd |Mf |Pa |Pt |Sc |Ma |Si |
 |:--:|:--:|:--:|:-:|:--:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |원점수|5|11|7|1|4|9|7|25|37|1|24|24|21|28|11|7|13|14|37|
-|전체규준T|37|59T|42|38|47|35|53|69|68|42|44|46|56|55|47|47|50|41|57|
+|전체규준T|37|59T|42|38|47|35|53|**69**|**68**|42|44|46|56|55|47|47|50|41|57|
+
+|척도|해석|
+|:---|:---|
+|VRIN (Variable Response Inconsistency)|무선반응 비일관성|
+|TRIN (True Response Inconsistency)|고정반응 비일관성|
+|F (Infrequency)|비전형|
+|F(B) (Back Infrequency)|비전형-후반부|
+|F(P) (Infrequency Psychopathology)|비전형-정신병리|
+|FBS (Symptom Validity)|증상 타당도|
+|L (Lie)|부인|
+|K (Correction)|교정|
+|S (Superlative Self-Presentation)|과장된 자기제시|
 
 ### 재구성 임상 척도와 성격병리 5요인 척도
 
@@ -143,20 +155,72 @@ K-WAIS-IV 시행 결과 수검자의 지적기능은 평균 상 범위 (High Ave
 |원점수|4|1|10|2|1|0|5|0|3|4|2|12|8|20|
 |전체규준T|40|34|57|36|35|36|43|35|34|38|37|50|41|56|
 
+|척도|해석|
+|:---|:---|
+|RCd (dem, Demoralization)|총체적인 정서적 불편감, 불행, 슬픈 기분, 불만족감.|
+|RC1 (som, Somatic Complaints)|신체적 불편감, 신체기능에 대한 집착, 피로, 허약감.|
+|RC2 (lpe, Low Positive Emotions)|낮은 긍정적 정서, 불행감, 사회적 상황에서의 철수.|
+|RC3 (cyn, Cynicism)|냉소성, 타인에 대한 의심, 불신.|
+|RC4 (asb, Antisocial Behavior)|반사회적 행동, 사회적 규준에 불응, 공격적.|
+|RC6 (per, Ideas of Persecution)|피해의식, 관계 형성의 어려움, 망상.|
+|RC7 (dne, Dysfunctional Negative Emotions)|역기능적 부정적 정서, 짜증, 불안 등 다양한 부정적 정서.|
+|RC8 (abx, Aberrent Experiences)|기태적 경험, 환각, 명백한 지각력 및 현실검증력의 손상.|
+|RC9 (hpm, Hypomaniac Activation)|경조증적 상태, 흥분 추구, 고양된 활력 수준, 충동 통제의 곤란.|
+|AGGR (Agressiveness)|언어적, 신체적 공격성, 반사회적, 타인에 대한 통제와 지배.|
+|PSYC (Psychoticism)|현실과 단절된 경험, 비논리적인 사고, 관계 망상, 직업적 적응 빈약.|
+|DISC (Disconstraint)|자제력 부족, 자기통제의 결여, 흥분 추구.|
+|NEGE (Negative Emotionality/Neurotism)|자기비판적, 과도한 걱정, 죄책감, 불안.|
+|INTR (Introversion/Low Positive Emotionality)|내향적, 성취에 대한 낮은 욕구, 비관적.|
+
 ### 내용 척도
 
 |척도|ANX|FRS|OBS|DEP|HEA|BIZ|ANG|CYN|ASP|TPA|LSE|SOD|FAM|WRK|TRI|
 |:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |원점수|1|7|0|6|3|1|1|2|5|3|6|16|5|6|3|
-|전체규준T|32|44|31|42|36|40|34|33|39|37|47|65|44|39|37|
+|전체규준T|32|44|31|42|36|40|34|33|39|37|47|**65**|44|39|37|
+
+|척도|해석|
+|:---|:---|
+|ANX (Anxiety)|광범위한 양상의 불안 증상과 이에 수반한 다양한 신체 증상.|
+|FRS (Fears)|다양한 유형의 공포증 혹은 두려움, 소심함, 자신감 부족.|
+|OBS (Obessiveness)|강박 사고 혹은 강박 행동, 우유부단함, 의사결정의 어려움.|
+|DEP (Depression)|우울, 불행감, 공허감, 자책감, 자살 사고, 흥미와 의욕 저하.|
+|HEA (Health Concerns)|신체적 쇠약감, 다양한 신체 증상 혹은 피로감 호소.|
+|BIZ (Bizarre Mentation)|정신증적 증상, 둔마된 정동, 동기 결여, 대인관계 부적절성.|
+|ANG (Anger)|분노, 짜증, 충동 및 감정 통제 능력의 취약성, 공격성, 폭력적 행동.|
+|CYN (Cynicism)|냉소적, 불신, 의심, 경계적 태도, 편집증적 사고, 적대적 태도.|
+|ASP (Antisocial Practices)|반사회적, 법적 문제, 사회규범 경시, 자기중심적 충동성.|
+|TPA (Type A)|A타입. 일 중심적, 성취 지향적, 민첩함, 경쟁적, 조급함, 적대적, 비판적.|
+|LSE (Low self-esteem)|부정적 자기 개념, 자신감 부족, 자신에 대한 과소평가, 수동적.|
+|SOD (Social Discomfort)|내향적, 수줍음, 사회적 상황에 대한 불편감.|
+|FAM (Family Problem)|가정문제, 가족관계, 부부관계에 대한 부정적 지각.|
+|WRK (Work Interference)| 직업적 곤란, 주의집중의 어려움, 우유부단함, 성취동기 결여.|
+|TRI (Negative Treatment Indicator)|심리치료 및 정신건강 서비스와 전문가에 대한 부정적 태도, 저항적.|
 
 ### 보충 척도
 
 |척도| A | R |Es |Do |Re |Mt |PK |MDS|Ho |O-H|MAC-R|AAS|APS|GM |GF |
 |:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:---:|:-:|:-:|:-:|:-:|
 |원점수|7|25|40|14|24|6|11|4|8|16|11|1|17|35|32|
-|전체규준T|37|62|67|51|65|32|44|46|33|59|30|38|40|63|55|
+|전체규준T|37|**62**|**67**|51|**65**|32|44|46|33|59|30|38|40|**63**|55|
 
+|척도|해석|
+|:--|:--|
+|A (Anxiety Scale)|불안 증상, 확신감 부족, 우유부단함, 관습에 순응적, 적응력 취약.|
+|R (Repression Scale)|순종적, 과잉 통제 성향, 관습 및 형식 중시, 명확한 사고 및 상황 선호, 신중함.|
+|Es (Ego Strength Scale)|자신의 심리 문제 인정과 자발적 도움 탐색, 방어적 수검자의 경우 상승함.|
+|Do (Dominance Scale)|현실적, 업무 중심적 성향. 자신감, 유능감, 책임감, 주도적이고 적극적인 대인관계.|
+|Re (Social Responsibility Scale)|정의감, 공정성 중시. 자신에게 높은 기준 적용, 자존심 강하고 독립적.|
+|Mt (College Maladjustment Scale)|대학 부적응, 근심 및 걱정, 염세적, 비판적, 현재의 부적응 정도.|
+|PK (Post-Traumatic Scale)|외상후 스트레스 징후, 심리적 혼란감, 정서적 고통감, 통제 불능감 등.|
+|MDS (Martial Distress Scale)|결혼 부적응 척도, 결혼생활의 어려움 정도.|
+|Ho (Hostality Scale)|타인에 대한 의심, 분노, 적대감, 냉소적 태도.|
+|O-H (Overcontrolled Hostality Scale)|내재된 분노감, 적대감의 부정 및 억제, 부정적 정서에 대한 과잉반응 가능성.|
+|MAC-R (MacAndrew Alcoholism Scale)|향후 알코올 사용으로 인한 잠재적 위험성. 외향적, 자기주장적, 자기과시적.|
+|AAS (Addiction Acknowledge Scale)|중독 인정 척도. 관련 문제들에 대한 자각과 자발적 도움 요청.|
+|APS (Addiction Potential Scale)|중독 가능성 또는 취약성.|
+|GM (Masculine Gender Role Scale)|남성 성역할 척도. 강한 자신감, 모험심, 추진력.|
+|GF (Feminine Gender Role Scale)|여성 성역할 척도. 전형적인 여성적 흥미와 활동에 대한 선호. 예민함, 순응적.|
 
 정서적인 면과 관련하여 호소하고 있는 정서적 어려움은 없다고 보고하였음. 다만, MMPI-2에서 K, S척도가 상승한 양상을 보이고 있어, 자신을 과도하게 긍정적으로 표현하려고 하는 방어적인 성향이 시사됨. 이러한 결과는 수검자가 내적으로는 본인의 심리적 갈등이나 어려움을 부인하거나, 억압하고 있을 가능성 커 보임. 다만 유년기부터 스스로 적응을 위해 감정적인 대처보다는 이성적이고 논리적인 해결 방식을 취하고 있다고 함. 하지만 간헐적으로 불확실성, 무력감을 느낀다고 함. 이렇듯 겉으로는 안정적이고 긍정적인 부분에 초점화하여 이를 유지해 적응을 잘하고 있으나, 내면에는 불확실성, 타인의 평가에 대한 민감성이 내재화되어있어, 다소 방어적이고 경직된 태도를 보일 수 있겠음.
 
