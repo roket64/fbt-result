@@ -147,6 +147,16 @@ K-WAIS-IV 시행 결과 수검자의 지적기능은 평균 상 범위 (High Ave
 |L (Lie)|부인|
 |K (Correction)|교정|
 |S (Superlative Self-Presentation)|과장된 자기제시|
+|Hs (Hypochondriasis)|건강염려증|
+|D (Depression)|우울증|
+|Hy (Hysteria)|히스테리|
+|Pd (Psycopathic deviate)|반사회성|
+|Mf (Masculinity-feminity)|남향성, 여향성 흥미 척도|
+|Pa (Paranoia)|편집증|
+|Pt (Psychasthenia)|강박증|
+|Sc (Schizophrenia)|정신분열증|
+|Ma (Hypomania)|경조증|
+|Si (Social Introversion)|사회적 내향성|
 
 ### 재구성 임상 척도와 성격병리 5요인 척도
 
